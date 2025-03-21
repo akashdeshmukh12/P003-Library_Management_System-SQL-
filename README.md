@@ -13,11 +13,12 @@
 # Approach:
     
     - In this project, I am using MySQL Workbench as tool,
-    to analyse Library management data and answer questions posed by the management team. 
-    -1]. Here, I use SQL queries to extract the required information from the database, 
-    also ensuring the accuracy and efficiency of the queries & the result-data solutions.
-    -2]. The Final insights will help the product manager and the rest of the team to make informed decisions,
-    about the future direction of the Library Management System & service improvement.
+      to analyse Library management data and answer questions posed by the management team.
+      
+    -[1]. Here, I use SQL queries to extract the required information from the database, 
+        also ensuring the accuracy and efficiency of the queries & the result-data solutions.
+    -[2]. The Final insights will help the product manager and the rest of the team to make informed decisions,
+        about the future direction of the Library Management System & service improvement.
     
   Approach used to complete this Project:
 
